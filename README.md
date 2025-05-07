@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ottenilogic
-- 👀 I’m interested in learning Python and SQL.
+- 👀 I’m interested in learning Python and SQL to further and broaden my career.
 - 🌱 I’m currently dipping my big toe into Python so that I may implement some automation into my design workflow for 3D modeling. I'm just getting started. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hold a degree in Art but work in engineering. 
